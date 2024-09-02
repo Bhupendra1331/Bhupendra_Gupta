@@ -13,10 +13,7 @@
 FullStack Developer with 2+ years of experience in developing robust and scalable software applications.
 - Proficient in both frontend and backend technologies, including Angular, Node.js, and Express.
 - Hands-on experience in building RESTful APIs for seamless communication between frontend and backend systems.
-- Designed and implemented event-driven architectures using RabbitMQ to ensure efficient task distribution and microservice communication.
-- Experienced with cloud storage solutions such as MinIO for handling large-scale data storage and retrieval.
 - Skilled in database management with both relational (MySQL) and NoSQL (MongoDB) databases.
-- Strong understanding of **Data Structures and Algorithms (DSA)**, consistently applying them to optimize performance in software solutions.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -38,12 +35,6 @@ FullStack Developer with 2+ years of experience in developing robust and scalabl
 </div>
 
 <h3 align="center">Projects Involving MinIO and RabbitMQ:</h3>
-
-- **MinIO**: Built a scalable storage system for handling large amounts of data, including images and binary files, using MinIO.
-  - Integrated with Node.js and Express for direct URL access and seamless retrieval of files.
-
-- **RabbitMQ**: Designed an event-driven microservices architecture with RabbitMQ as the message broker.
-  - Efficiently handled asynchronous task distribution across different services to ensure better performance and reliability.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-kashyapp&show_icons=true&locale=en&layout=compact" alt="yash-k2001" /></p>
 
