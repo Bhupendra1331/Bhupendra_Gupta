@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+a+Yash+Kashyap;I'm+from+Ghaziabad,+India;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+a+Bhupendra+Kumar+Gupta;I'm+from+Delhi,+India;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 
 - 🔭 I’m currently working as a **Node.js and Angular Developer**
 - 🌱 I’m expanding my knowledge in **Full Stack Developer**.
