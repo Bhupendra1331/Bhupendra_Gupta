@@ -29,12 +29,10 @@ FullStack Developer with 2+ years of experience in developing robust and scalabl
 <div style="display: inline_block">
   <p align="center">
     <a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=js,ts,angular,nodejs,express,aws,mongodb,mysql,docker,minio,rabbitmq,linux,git" />
+      <img align="center" src="https://skillicons.dev/icons?i=js,ts,angular,nodejs,express,mysql,linux,git" />
     </a>
   </p>
 </div>
-
-<h3 align="center">Projects Involving MinIO and RabbitMQ:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupendra&show_icons=true&locale=en&layout=compact" alt="yash-k2001" /></p>
 
