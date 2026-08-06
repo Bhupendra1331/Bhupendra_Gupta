@@ -10,7 +10,7 @@
 
 <h2 align="center">Summary</h2>
 
-FullStack Developer with 2+ years of experience in developing robust and scalable software applications.
+FullStack Developer with 4+ years of experience in developing robust and scalable software applications.
 - Proficient in both frontend and backend technologies, including Angular, Node.js, and Express.
 - Hands-on experience in building RESTful APIs for seamless communication between frontend and backend systems.
 - Skilled in database management with both relational (MySQL) and NoSQL (MongoDB) databases.
@@ -34,9 +34,9 @@ FullStack Developer with 2+ years of experience in developing robust and scalabl
   </p>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhupendra1331&show_icons=true&locale=en&layout=compact" alt="yash-k2001" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhupendra1331&show_icons=true&locale=en&layout=compact" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhupendra1331&show_icons=true&locale=en" alt="yash-k2001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhupendra1331&show_icons=true&locale=en" /></p>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
